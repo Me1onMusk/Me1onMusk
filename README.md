@@ -17,3 +17,6 @@
 
 ### Publish
 <img src="https://img.shields.io/badge/Play Store-4285F4?style=for-the-badge&logo=chrome web store&logoColor=white" />
+
+### 자격증
+- SQLD
