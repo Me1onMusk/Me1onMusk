@@ -1,8 +1,8 @@
 <!-- info -->
 ### :wave: Welcome!
 
-- This is my FIRST PROJECT
-- Full Stack developed
+- I'm Tae Young 
+- Android App Developer
 
 ------
 <!-- Language logo-->
