@@ -2,7 +2,7 @@
 ### :wave: Welcome!
 
 - I'm Tae Young 
-- <img src="https://img.shields.io/badge/android-34A853?style=for-the-badge&logo=Android App Developer&logoColor=white">
+- <img src="https://img.shields.io/badge/Android App Developer-34A853?style=for-the-badge&logo=android&logoColor=white">
 
 ------
 <!-- Language logo-->
