@@ -16,4 +16,4 @@
 <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=for-the-badge&logo=android studio&logoColor=white" />
 
 ### Publish
-<img src="https://img.shields.io/badge/Play Store-34A853?style=for-the-badge&logo=google display & video 360&logoColor=white" />
+<img src="https://img.shields.io/badge/Play Store-4285F4?style=for-the-badge&logo=chrome web store&logoColor=white" />
