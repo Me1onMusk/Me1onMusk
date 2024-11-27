@@ -2,8 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 ## :wave: 안녕하세요!
 
-- I'm Tae Young 
-- <img src="https://img.shields.io/badge/Android App Developer-34A853?style=for-the-badge&logo=android&logoColor=white">
+- I'm Tae Young <img src="https://img.shields.io/badge/Android App Developer-34A853?style=for-the-badge&logo=android&logoColor=white">
 
 ------
 <!-- Language logo-->
