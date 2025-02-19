@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Welcome&fontSize=90)
 # :wave: 안녕하세요!
 
-## - I'm Tae Young Fontend Developer
+## - I'm Tae Young Frontend Developer
 
 <!-- Language logo-->
 <div align=center><h1>📚 STACKS</h1></div>
